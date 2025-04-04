@@ -9,10 +9,6 @@ This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 
 {% include big-cat.html %}
 
-{% for animal in site.data.animals %}
-- The {{ animal.name }} is a {{ animal.size }} animal.
-{% endfor %}
-
 Some Markdown contents describing your site.
 
 ## About About Pages
