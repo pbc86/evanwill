@@ -37,7 +37,7 @@ It is your opportunity to let us know all the details "about" your project:
 
 ## List of Small Animals
 
-{% assign small_animals = site.data.animals | where: "size", "small" %}
+{% assign small_animals = site.data.animal | where: "size", "small" %}
 {% for animal in small_animals %}
 - {{ animal.name | upcase }}
 {% endfor %}
