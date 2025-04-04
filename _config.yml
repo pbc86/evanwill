@@ -1,0 +1,9 @@
+# Site settings
+title: Great New Blog
+author:
+  name: Cau Pau
+  email: caupau@gmail.com
+description: "Evan Will's tutorial on Jekyll blog"
+
+# Build settings
+remote_theme: jekyll/minima
