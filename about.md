@@ -11,7 +11,7 @@ This page describes the amazing {{ site.title }} by {{ site.author.name }}.
 
 Some Markdown contents describing your site.
 
-<div style="color: white";> ## About About Pages </div>
+<h2> About About Pages </h2>
 
 The About page is a common convention found on websites.
 
